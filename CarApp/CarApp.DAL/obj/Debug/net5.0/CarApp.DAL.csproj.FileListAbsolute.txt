@@ -1,0 +1,15 @@
+D:\Test\TestCar\CarApp\CarApp\CarApp.DAL\bin\Debug\net5.0\CarApp.DAL.deps.json
+D:\Test\TestCar\CarApp\CarApp\CarApp.DAL\bin\Debug\net5.0\CarApp.DAL.runtimeconfig.json
+D:\Test\TestCar\CarApp\CarApp\CarApp.DAL\bin\Debug\net5.0\CarApp.DAL.runtimeconfig.dev.json
+D:\Test\TestCar\CarApp\CarApp\CarApp.DAL\bin\Debug\net5.0\CarApp.DAL.dll
+D:\Test\TestCar\CarApp\CarApp\CarApp.DAL\bin\Debug\net5.0\ref\CarApp.DAL.dll
+D:\Test\TestCar\CarApp\CarApp\CarApp.DAL\bin\Debug\net5.0\CarApp.DAL.pdb
+D:\Test\TestCar\CarApp\CarApp\CarApp.DAL\obj\Debug\net5.0\CarApp.DAL.csproj.AssemblyReference.cache
+D:\Test\TestCar\CarApp\CarApp\CarApp.DAL\obj\Debug\net5.0\CarApp.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Test\TestCar\CarApp\CarApp\CarApp.DAL\obj\Debug\net5.0\CarApp.DAL.AssemblyInfoInputs.cache
+D:\Test\TestCar\CarApp\CarApp\CarApp.DAL\obj\Debug\net5.0\CarApp.DAL.AssemblyInfo.cs
+D:\Test\TestCar\CarApp\CarApp\CarApp.DAL\obj\Debug\net5.0\CarApp.DAL.csproj.CoreCompileInputs.cache
+D:\Test\TestCar\CarApp\CarApp\CarApp.DAL\obj\Debug\net5.0\CarApp.DAL.dll
+D:\Test\TestCar\CarApp\CarApp\CarApp.DAL\obj\Debug\net5.0\ref\CarApp.DAL.dll
+D:\Test\TestCar\CarApp\CarApp\CarApp.DAL\obj\Debug\net5.0\CarApp.DAL.pdb
+D:\Test\TestCar\CarApp\CarApp\CarApp.DAL\obj\Debug\net5.0\CarApp.DAL.genruntimeconfig.cache

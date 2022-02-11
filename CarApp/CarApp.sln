@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1. API", "1. API", "{871AFADF-C6EA-4526-AF04-8DF7144E2A80}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2. BLL", "2. BLL", "{BA8A2822-AEBB-44A8-AFAE-5215730406BB}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3. DAL", "3. DAL", "{575DE252-06A4-4C91-9C6E-4B359624828B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CarApp.API", "CarApp.API\CarApp.API.csproj", "{0A4C0790-E43F-4AAA-88AB-1121BF62622A}"
+	ProjectSection(ProjectDependencies) = postProject
+		{3AE3C458-760E-4940-9D96-9FDD29816630} = {3AE3C458-760E-4940-9D96-9FDD29816630}
+		{0E3E8079-E328-443F-A29D-76D67FF8E685} = {0E3E8079-E328-443F-A29D-76D67FF8E685}
+	EndProjectSection
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CarApp.BLL", "CarApp.BLL\CarApp.BLL.csproj", "{3AE3C458-760E-4940-9D96-9FDD29816630}"
+	ProjectSection(ProjectDependencies) = postProject
+		{0E3E8079-E328-443F-A29D-76D67FF8E685} = {0E3E8079-E328-443F-A29D-76D67FF8E685}
+	EndProjectSection
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CarApp.DAL", "CarApp.DAL\CarApp.DAL.csproj", "{0E3E8079-E328-443F-A29D-76D67FF8E685}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0A4C0790-E43F-4AAA-88AB-1121BF62622A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A4C0790-E43F-4AAA-88AB-1121BF62622A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A4C0790-E43F-4AAA-88AB-1121BF62622A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A4C0790-E43F-4AAA-88AB-1121BF62622A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3AE3C458-760E-4940-9D96-9FDD29816630}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3AE3C458-760E-4940-9D96-9FDD29816630}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3AE3C458-760E-4940-9D96-9FDD29816630}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3AE3C458-760E-4940-9D96-9FDD29816630}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0E3E8079-E328-443F-A29D-76D67FF8E685}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E3E8079-E328-443F-A29D-76D67FF8E685}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E3E8079-E328-443F-A29D-76D67FF8E685}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E3E8079-E328-443F-A29D-76D67FF8E685}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{0A4C0790-E43F-4AAA-88AB-1121BF62622A} = {871AFADF-C6EA-4526-AF04-8DF7144E2A80}
+		{3AE3C458-760E-4940-9D96-9FDD29816630} = {BA8A2822-AEBB-44A8-AFAE-5215730406BB}
+		{0E3E8079-E328-443F-A29D-76D67FF8E685} = {575DE252-06A4-4C91-9C6E-4B359624828B}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1ED0AB23-238A-41B6-848A-285234AC4606}
+	EndGlobalSection
+EndGlobal

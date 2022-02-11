@@ -1,0 +1,15 @@
+D:\Test\TestCar\CarApp\CarApp\CarApp.BLL\obj\Debug\net5.0\CarApp.BLL.csproj.AssemblyReference.cache
+D:\Test\TestCar\CarApp\CarApp\CarApp.BLL\obj\Debug\net5.0\CarApp.BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Test\TestCar\CarApp\CarApp\CarApp.BLL\obj\Debug\net5.0\CarApp.BLL.AssemblyInfoInputs.cache
+D:\Test\TestCar\CarApp\CarApp\CarApp.BLL\obj\Debug\net5.0\CarApp.BLL.AssemblyInfo.cs
+D:\Test\TestCar\CarApp\CarApp\CarApp.BLL\obj\Debug\net5.0\CarApp.BLL.csproj.CoreCompileInputs.cache
+D:\Test\TestCar\CarApp\CarApp\CarApp.BLL\bin\Debug\net5.0\CarApp.BLL.deps.json
+D:\Test\TestCar\CarApp\CarApp\CarApp.BLL\bin\Debug\net5.0\CarApp.BLL.dll
+D:\Test\TestCar\CarApp\CarApp\CarApp.BLL\bin\Debug\net5.0\ref\CarApp.BLL.dll
+D:\Test\TestCar\CarApp\CarApp\CarApp.BLL\bin\Debug\net5.0\CarApp.BLL.pdb
+D:\Test\TestCar\CarApp\CarApp\CarApp.BLL\bin\Debug\net5.0\CarApp.DAL.dll
+D:\Test\TestCar\CarApp\CarApp\CarApp.BLL\bin\Debug\net5.0\CarApp.DAL.pdb
+D:\Test\TestCar\CarApp\CarApp\CarApp.BLL\obj\Debug\net5.0\CarApp.BLL.csproj.CopyComplete
+D:\Test\TestCar\CarApp\CarApp\CarApp.BLL\obj\Debug\net5.0\CarApp.BLL.dll
+D:\Test\TestCar\CarApp\CarApp\CarApp.BLL\obj\Debug\net5.0\ref\CarApp.BLL.dll
+D:\Test\TestCar\CarApp\CarApp\CarApp.BLL\obj\Debug\net5.0\CarApp.BLL.pdb
